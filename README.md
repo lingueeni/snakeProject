@@ -1,5 +1,5 @@
 # snakeProject
- simple snake game using phaser3
+ simple snake game using node js , expres with phaser 3 (Game Framework) 
 
 ## simple video illustrating our snake game
 
